@@ -1,4 +1,4 @@
-# 🔍 RAG Search Engine: Intelligent Document Querying Using Aws and Langchain
+# 🔍 RAG Search Engine: Intelligent Document Querying Using AWS and Langchain
 
 A powerful Retrieval-Augmented Generation (RAG) search engine that enables intelligent querying of unstructured documents using **LangChain**, **AWS Bedrock**, and **FAISS**. Built with a clean and interactive **Streamlit** frontend.
 
