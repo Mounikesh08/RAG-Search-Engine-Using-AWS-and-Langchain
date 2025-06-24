@@ -29,6 +29,8 @@ A powerful Retrieval-Augmented Generation (RAG) search engine that enables intel
 | Hosting      | AWS (Optional)                    |
 
 ---
+![Screenshot (264)](https://github.com/user-attachments/assets/82f41dd7-7cfe-4fc2-92fe-3ac58847d8ae)
+![Screenshot (265)](https://github.com/user-attachments/assets/b8f00a32-3d23-467e-8992-e4d953316944)
 
 ## 📂 Project Structure
 
@@ -39,3 +41,4 @@ A powerful Retrieval-Augmented Generation (RAG) search engine that enables intel
 ├── requirements.txt        # Python dependencies
 ├── data/                   # Folder for PDF documents
 └── vectorstore/            # FAISS index
+
