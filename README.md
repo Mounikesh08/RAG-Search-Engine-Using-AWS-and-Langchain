@@ -31,8 +31,8 @@ A powerful Retrieval-Augmented Generation (RAG) search engine that enables intel
 ---
 ## Project Result
 
-![Screenshot (264)](https://github.com/user-attachments/assets/82f41dd7-7cfe-4fc2-92fe-3ac58847d8ae)
-![Screenshot (265)](https://github.com/user-attachments/assets/b8f00a32-3d23-467e-8992-e4d953316944)
+![Screenshot (265)](https://github.com/user-attachments/assets/98ace435-6649-454a-a2c2-8368b5ccd676)
+![Screenshot (264)](https://github.com/user-attachments/assets/6f585856-e17d-43dc-94ce-b789ae12dbd3)
 
 ## 📂 Project Structure
 
